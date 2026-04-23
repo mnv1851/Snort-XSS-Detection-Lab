@@ -164,17 +164,12 @@ This lab simulates malicious web requests targeting an exposed application and d
 * Alert validation and troubleshooting
 * Blue-team documentation
 
-## Demo Video
-
-A full walkthrough of the lab setup, rule validation, traffic generation, and alert detection is included here:
-
-**Demo Video:** `PASTE_YOUR_VIDEO_LINK_HERE`
 
 ## Why This Project Matters
 
 This project demonstrates practical blue-team skills by combining attack simulation, web traffic monitoring, custom IDS rule creation, and alert validation in a controlled lab environment. It shows the ability to build and document a small but realistic detection workflow that aligns with SOC analyst responsibilities.
 
-````
+
 
 ## rules/local.rules
 
@@ -198,7 +193,7 @@ echo "</body></html>";
 
 ## report/snort-xss-detection-report.md
 
-```md
+
 # Snort XSS Detection Report
 
 ## Summary
@@ -212,12 +207,12 @@ A controlled XSS detection lab was built using Kali Linux and Ubuntu in VirtualB
 
 ## Conclusion
 The lab successfully demonstrated end-to-end detection of XSS-style payloads using Snort and reinforced practical skills in IDS rule development, testing, and alert validation.
-```
+
 
 ## Demo Video
 
 [![Snort XSS Detection Lab Demo](https://img.youtube.com/vi/CUlTq2RuL3Y/0.jpg)](https://youtu.be/CUlTq2RuL3Y)
 
 Click the thumbnail above to watch the full demo.
-```
+
 
