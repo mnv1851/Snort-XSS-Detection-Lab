@@ -12,12 +12,12 @@ Snort-XSS-Detection-Lab/
 ├── report/
 │   └── snort-xss-detection-report.md
 └── video/
-    └── demo-link.txt
+    
 ```
 
 ## README.md
 
-````
+````md
 # Snort XSS Detection Lab
 
 ## Overview
