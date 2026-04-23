@@ -1,5 +1,11 @@
 # Snort XSS Detection Lab
 
+## Walkthrough Video
+
+[![Snort XSS Detection Lab Demo](https://img.youtube.com/vi/CUlTq2RuL3Y/0.jpg)](https://youtu.be/CUlTq2RuL3Y)
+
+Click the thumbnail above to watch the full.
+
 ## Repository Structure
 
 ```text
@@ -208,11 +214,5 @@ A controlled XSS detection lab was built using Kali Linux and Ubuntu in VirtualB
 ## Conclusion
 The lab successfully demonstrated end-to-end detection of XSS-style payloads using Snort and reinforced practical skills in IDS rule development, testing, and alert validation.
 
-
-## Demo Video
-
-[![Snort XSS Detection Lab Demo](https://img.youtube.com/vi/CUlTq2RuL3Y/0.jpg)](https://youtu.be/CUlTq2RuL3Y)
-
-Click the thumbnail above to watch the full demo.
 
 
