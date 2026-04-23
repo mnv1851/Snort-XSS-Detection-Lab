@@ -17,7 +17,6 @@ Snort-XSS-Detection-Lab/
 
 ## README.md
 
-````md
 # Snort XSS Detection Lab
 
 ## Overview
