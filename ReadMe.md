@@ -216,7 +216,9 @@ The lab successfully demonstrated end-to-end detection of XSS-style payloads usi
 
 ## Demo Video
 
-Watch the full lab walkthrough here: [Snort XSS Detection Lab Demo](https://youtu.be/CUlTq2RuL3Y)
+[![Snort XSS Detection Lab Demo](https://img.youtube.com/vi/CUlTq2RuL3Y/0.jpg)](https://youtu.be/CUlTq2RuL3Y)
+
+Click the thumbnail above to watch the full demo.
 ```
 
 ## Suggested GitHub Repo Name
