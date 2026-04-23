@@ -221,10 +221,3 @@ The lab successfully demonstrated end-to-end detection of XSS-style payloads usi
 Click the thumbnail above to watch the full demo.
 ```
 
-## Suggested GitHub Repo Name
-
-`Snort-XSS-Detection-Lab`
-
-## Suggested Commit Message
-
-`Add Snort XSS detection lab with custom rules, PHP test page, and report`
